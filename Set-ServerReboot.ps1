@@ -6,7 +6,7 @@
 .DESCRIPTION 
       Describe the function in more detail.
 .EXAMPLE 
-      . "D:\Scripts\Beheerscripts\Set-ServerReboot.ps1" -ComputerName SW0123
+      . "D:\Scripts\Beheerscripts\Set-ServerReboot.ps1" -ComputerName server123
 .PARAMETER paramName 
       -ComputerName, the computer the reboot is planned
 
